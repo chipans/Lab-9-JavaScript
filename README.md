@@ -57,3 +57,4 @@ Esta sección se llenará a medida que se completen los ejercicios específicos 
 | **[Título del Ejercicio 1]** | Breve descripción de la funcionalidad implementada. | `src/index.html`, `src/js/main.js` |
 | **[Título del Ejercicio 2]** | Breve descripción de la funcionalidad implementada. | `src/index.html`, `src/js/otro-script.js` |
 | ... | ... | ... |
+ssssssssssssssssssssss
