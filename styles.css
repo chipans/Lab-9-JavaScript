@@ -1,0 +1,44 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    margin: 0;
+}
+
+.calculator {
+    display: flex;
+    flex-direction: column;
+    width: 320px;
+}
+
+#display {
+    height: 56px;
+    font-size: 20px;
+    padding: 8px;
+    margin-bottom: 8px;
+    text-align: right;
+}
+
+.pad {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 6px;
+}
+
+.btn {
+    flex: 1 0 21%;
+    height: 56px;
+    border: 1px solid black;
+}
+
+.controls {
+    display: flex;
+    gap: 6px;
+    margin-top: 8px;
+}
+
+.control {
+    flex: 1;
+    border: 1px solid black;
+}
